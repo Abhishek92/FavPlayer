@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FavPlayer</string>
+    <string name="app_name_home">FavPlayer | Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="team">Team</string>
+    <string name="role">Role</string>
+    <string name="bat_style">Bat Style</string>
+    <string name="bowl_style">Bowl Style</string>
+    <string name="test">Test</string>
+    <string name="t20">T20</string>
+    <string name="odi">ODI</string>
+    <string name="innings">Innings</string>
+    <string name="title_activity_player_profile">FavPlayer | Profile</string>
+    <string name="loading">Loading...</string>
+    <string name="notouts">Notouts</string>
+    <string name="runs">Runs</string>
+    <string name="highest_score">Highest Score</string>
+    <string name="balls_taken">Balls Taken</string>
+    <string name="fours">Fours</string>
+    <string name="sixes">Sixes</string>
+    <string name="search_player">Search player</string>
+    <string name="share">Share</string>
+    <string name="share_text_to">Share Text to</string>
+    <string name="oops_something_wrong_please_try_again">Oops! something wrong please try again!</string>
+    <string name="edit">edit</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="set_your_mobile_number_android_dialogtitle_">Set Your Mobile Number\n                android:dialogTitle=</string>
+    <string name="settings">Settings</string>
+    <string name="set_your_mobile_number">Set Your Mobile Number</string>
+    <string name="set_number">Set Number</string>
+    <string name="send_score_to_friend">Send Score to Friend</string>
+    <string name="your_sms_is_sent_">Your Sms is Sent.</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:dialogTitle="@string/set_number"
+        android:key="mobilenumber"
+        android:summary="@string/set_your_mobile_number"
+        android:title="@string/mobile_number" />
+
+</PreferenceScreen>
